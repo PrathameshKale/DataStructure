@@ -1,0 +1,4 @@
+﻿  Source.cpp
+g:\program files\ds\hashtable\hash_table_operations\hash_table_operations\source.cpp(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Hash_Table_Operations.vcxproj -> G:\Program Files\DS\HashTable\Hash_Table_Operations\Debug\Hash_Table_Operations.exe
+  Hash_Table_Operations.vcxproj -> G:\Program Files\DS\HashTable\Hash_Table_Operations\Debug\Hash_Table_Operations.pdb (Full PDB)

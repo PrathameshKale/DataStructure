@@ -1,0 +1,6 @@
+﻿  Source.cpp
+g:\program files\ds\linkedlist\template_list_all_operations\template_list_all_operations\source.cpp(13): warning C4101: 'occurance': unreferenced local variable
+g:\program files\ds\linkedlist\template_list_all_operations\template_list_all_operations\source.cpp(13): warning C4101: 'valueToAdd': unreferenced local variable
+g:\program files\ds\linkedlist\template_list_all_operations\template_list_all_operations\source.cpp(13): warning C4101: 'vlaueToSearch': unreferenced local variable
+  Template_List_all_operations.vcxproj -> G:\Program Files\DS\LinkedList\Template_List_all_operations\Debug\Template_List_all_operations.exe
+  Template_List_all_operations.vcxproj -> G:\Program Files\DS\LinkedList\Template_List_all_operations\Debug\Template_List_all_operations.pdb (Full PDB)

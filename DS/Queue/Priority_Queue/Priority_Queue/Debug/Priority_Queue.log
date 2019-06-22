@@ -1,0 +1,4 @@
+﻿  Source.cpp
+g:\program files\ds\queue\priority_queue\priority_queue\header.h(64): warning C4715: 'Priority_Queue<int>::push': not all control paths return a value
+  Priority_Queue.vcxproj -> G:\Program Files\DS\Queue\Priority_Queue\Debug\Priority_Queue.exe
+  Priority_Queue.vcxproj -> G:\Program Files\DS\Queue\Priority_Queue\Debug\Priority_Queue.pdb (Full PDB)
